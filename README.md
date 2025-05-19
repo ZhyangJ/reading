@@ -1,6 +1,8 @@
 # reading
 记录一下看过哪些东西  
 
+- 前端框架  
+[现代前端框架的重要概念](https://juejin.cn/post/7183639661246414909?searchId=202505191504116F470BD3A2244689EBEB) 5.19  
 - Suspense  
 [Suspense官方文档](https://react.dev/reference/react/Suspense) 5.18  
 - React.memo  
